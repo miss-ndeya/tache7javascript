@@ -1,9 +1,9 @@
                         /***********Exercice1**********/
-                        
+
 function afficherResultat() {
     // valeurs saisi par l'utilisateur
-    var nombre1 = parseFloat(document.getElementById("n1").value);
-    var nombre2 = parseFloat(document.getElementById("n2").value);
+    var nombre1 = parseFloat(document.getElementById("nombre1").value);
+    var nombre2 = parseFloat(document.getElementById("nombre2").value);
   
     // calcul 
     var resultat = nombre1 * nombre2;
